@@ -1,17 +1,19 @@
 {
-    "name": "nuboxdevcom/tu-actions",
-    "description": "Tests unitaires sur PHP en utilisant Actions de Github",
-    "type": "library",
-    "require-dev": {
-        "phpunit/phpunit": "^9.3"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "NuBOX DevCom",
-            "email": "slye@nubox.fr"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {}
+  "name": "nuboxdevcom/tu-actions",
+  "description": "Tests unitaires sur PHP en utilisant Actions de Github",
+  "type": "library",
+  "require-dev": {
+    "phpunit/phpunit": "^9.3"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "NuBOX DevCom",
+      "email": "slye@nubox.fr"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">= 7.4"
+  }
 }
