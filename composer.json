@@ -1,6 +1,6 @@
 {
   "name": "nuboxdevcom/tu-actions",
-  "description": "Tests unitaires sur PHP en utilisant Actions de Github",
+  "description": "Tests unitaires PHP & deploiement serveur en utilisant les Actions Github",
   "type": "library",
   "require-dev": {
     "phpunit/phpunit": "^9.3"
